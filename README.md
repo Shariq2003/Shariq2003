@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ItsShariq.
+- 👋 Hi, I’m Shariq.
 - 👀 I’m interested in Software development.
 - 🌱 I’m currently learning Software Development 
 - 💞️ I’m looking to collaborate on ...
