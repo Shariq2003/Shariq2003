@@ -22,6 +22,8 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **shariqsd2003@example.com**
 
+<img src=https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20Dark.png" width="100px" height="100px" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shariq-sd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shariq-sd" height="30" width="40" /></a>
