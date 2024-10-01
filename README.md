@@ -23,6 +23,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me **shariqsd2003@example.com**
 
 ## GSSOC(24) Badges 
+<!--
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
@@ -34,6 +35,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /></a>
 </div>
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
