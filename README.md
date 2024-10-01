@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **React, Node.js, and Data Structures & Algorithms*
 
-- 📫 How to reach me **shariqsd2003@example.com**
+- 📫 How to reach me **shariqsd2003@gmail.com**
 
 ## GSSOC(24) Badges 
 <!--
