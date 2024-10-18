@@ -77,8 +77,7 @@
   <br>
 
 
-📄 Below is a showcase of my knowledge and skills across a wide range of DevOps, cloud, and related technologies, primarily completed through [LinuxWorld Informatics Pvt. Ltd](https://www.linkedin.com/company/linuxworld-informatics-pvt-ltd).
-
+📄 Below is a showcase of my knowledge and skills across a wide range of Competitive Programming and Development.
 <br>
 
 | S.No. | Achievement Name           | Issuing Authority |       Date        | Details                                                                                                                                                                       | Credential |
