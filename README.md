@@ -170,6 +170,10 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shariq2003&theme=github_dark"  />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shariq2003&theme=github_dark" />
 </div>
+<br>
+
+[![An image of @shariq2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shariq2003)](https://holopin.io/@shariq2003)
+
 
 ### 🔝 Top Contributed Repo
 <p align="center">
